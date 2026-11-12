@@ -1,6 +1,8 @@
 # Drone-Fleet-Management-System
 Systems analysis and design project (INFO 380): a Drone Fleet Management System for wind turbine inspections, with AI defect detection, dashboard mockups, data flow diagram, adoption plan, and roadmap.
 
+**[Presentation (PDF)](Windtech-DFMS-Presentation.pdf)** · **[Data flow diagram (PDF)](Data-Flow-Diagram.pdf)** · **[Dashboard mockups (PDF)](Dashboard-Mockups.pdf)**
+
 ## Overview
  
 Windtech Innovation inspects its wind turbines through manual technician visits. This project proposes a **Drone Fleet Management System (DFMS)**: autonomous AI-powered drones that inspect turbines, with a centralized dashboard for reviewing footage, monitoring emissions, and forecasting maintenance needs.
@@ -57,6 +59,8 @@ The data flow diagram models the system with:
 - **Processes:** Login, Add/Edit Turbine Details, Upload Drone Footage, Request Report, Add/Resolve Issues, Search Archive
 - **Data stores:** Drone, Users, Turbine, Drone Footage, Issue, Emissions/Energy, and Archive tables
 
+See the [data flow diagram](Data-Flow-Diagram.pdf) for the full model.
+
 ## Benefits
  
 | Area | What it provides |
@@ -96,6 +100,14 @@ Training was tailored to each user group:
 | Cybersecurity threats | Data breaches, compromised inspections, drone hijacking | Multi-factor authentication, firewalls, incident response plans |
 | Supply chain delays | Downtime from missing parts | Advance hardware delivery and buffer inventory |
  
-
+## Team
+ 
+Group project with 4 teammates.
+ 
+**My role:** I designed the Real-Time Monitoring dashboard mockup and contributed to the data flow diagram, modeling how technicians, operations managers, and drones interact with the system's data. I also worked with the team across the rest of the project, including the problem analysis, solution design, and presentation.
+ 
+## Tools
+ 
+Figma · Data flow diagramming · Systems analysis and design · Google Slides
 
  
